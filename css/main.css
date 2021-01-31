@@ -16,6 +16,9 @@
 .imagen2{
     margin-left: 26%;
 }
-#cualidades, #curriculum, #premios{
+#cualidades, #curriculum, #premios,#aptitudes,#contacto{
     margin-top: 5%;
+}
+#contacto> div{
+    margin: 2%;
 }
