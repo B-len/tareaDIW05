@@ -9,9 +9,17 @@
 #sobremi{
     background-color: gray;
 }
-#sobremi img{
-    margin-left: 37%;
-}
 #yoimagen{
+    margin-left: 37%;
     width: 27%;
+}
+.imagen2{
+    margin-left: 26%;
+}
+#cualidades{
+    margin-top: 5%;
+}
+
+#curriculum{
+    margin-top: 5%;
 }
